@@ -30,3 +30,19 @@ console.log(greet)
 greet = greet+"Come stai?"
 greet = `${greet}Come stai?`
 console.log(totale) 
+
+
+// esercizio 1
+
+let num1 = 40
+let num2 = 30
+
+let comparison;
+
+if (num1 > num2){
+    comparisono= num1
+}
+else {
+    comaparison = num2
+}
+console.log(comparison)
