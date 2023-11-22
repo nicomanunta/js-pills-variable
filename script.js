@@ -49,14 +49,27 @@
 
 
 // esercizio 2
-let nome1 = "carlo"
-let nome2 = "giorgio"
-let comparison 
+// let nome1 = "carlo"
+// let nome2 = "giorgio"
+// let comparison 
 
-if (nome1 == nome2){
-    comparison = "vero"
+// if (nome1 == nome2){
+//     comparison = "vero"
+// }
+// else {
+//     comparison = "falso"
+// }
+// console.log(comparison)
+
+// esercizo 3
+let number = 2
+let string = "2"
+
+let comparison 
+if (number == string){
+    comparison = vero
 }
 else {
-    comparison = "falso"
+    comparison = falso
 }
 console.log(comparison)
