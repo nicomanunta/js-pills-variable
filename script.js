@@ -85,5 +85,9 @@
 
 
 // esercizio 1/A
-const numbers = [12, 15, 45, 76, 88, 99, 33, 22]
-console.log(numbers)
+// const numbers = [12, 15, 45, 76, 88, 99, 33, 22]
+// console.log(numbers)
+
+// esercizio 2/B
+const fruits = ["mela", "banana", "pesca", "pera ", "albicocca", "mango", "kiwi", "papaya"]
+console.log(fruits)
