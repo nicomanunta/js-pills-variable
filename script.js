@@ -62,14 +62,19 @@
 // console.log(comparison)
 
 // esercizo 3
-let number = 2
-let string = "2"
+// let number = 2
+// let string = "2"
 
-let comparison 
-if (number == string){
-    comparison = vero
+// let comparison 
+// if (number == string){
+//     comparison = vero
+// }
+// else {
+//     comparison = falso
+// }
+// console.log(comparison)
+
+
+for(let i=0; i<=42; i++){
+    console.log(i)
 }
-else {
-    comparison = falso
-}
-console.log(comparison)
