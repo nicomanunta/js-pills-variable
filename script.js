@@ -74,7 +74,11 @@
 // }
 // console.log(comparison)
 
-
-for(let i=0; i<=42; i++){
+// esercizio 1/a
+// for(let i=0; i<=42; i++){
+//     console.log(i)
+// }
+// esercizio 1/b
+for(let i=42; i>=1; i--){
     console.log(i)
 }
