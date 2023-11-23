@@ -79,6 +79,11 @@
 //     console.log(i)
 // }
 // esercizio 1/b
-for(let i=42; i>=1; i--){
-    console.log(i)
-}
+// for(let i=42; i>=1; i--){
+//     console.log(i)
+// }
+
+
+// esercizio 1/A
+const numbers = [12, 15, 45, 76, 88, 99, 33, 22]
+console.log(numbers)
