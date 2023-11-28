@@ -131,3 +131,6 @@ function world(){
     alert("Ciao mondo")
 }
 
+// esercizio 1/B
+world()
+
