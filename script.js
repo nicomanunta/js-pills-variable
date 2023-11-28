@@ -140,4 +140,9 @@ function sommaNumeri(num1, num2){
     return risultato
 }
 
+// esercizio 2/B
+let a = sommaNumeri(2, 5)
+console.log(a)
+
+
 
