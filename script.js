@@ -125,12 +125,19 @@
 // console.log(maggiore)
 
 
-// esercizio 1/A
-function world(){
+// // esercizio 1/A
+// function world(){
 
-    alert("Ciao mondo")
+//     alert("Ciao mondo")
+// }
+
+// // esercizio 1/B
+// world()
+
+// esercizio 2/A
+function sommaNumeri(num1, num2){
+    let risultato = num1+num2
+    return risultato
 }
 
-// esercizio 1/B
-world()
 
