@@ -88,6 +88,46 @@
 // const numbers = [12, 15, 45, 76, 88, 99, 33, 22]
 // console.log(numbers)
 
-// esercizio 2/B
-const fruits = ["mela", "banana", "pesca", "pera ", "albicocca", "mango", "kiwi", "papaya"]
-console.log(fruits)
+// esercizio 1/B
+// const fruits = ["mela", "banana", "pesca", "pera ", "albicocca", "mango", "kiwi", "papaya"]
+// console.log(fruits)
+
+// // esercizio 1/C
+// console.log(fruits.length)
+
+// esercizio 2/A
+// const numOfElements = parseInt(prompt("Inserisci un numero intero"))
+// console.log(numOfElements)
+// console.log(typeof numOfElements)
+// let numbers = []
+
+// for (let i = 1; i <= numOfElements; i++){
+//     numbers.push(parseInt(Math.random() * 10 ) + 1)
+    
+// }
+// console.log(numbers)
+// // console.log(numbers)
+// // console.log(numbers.length)
+
+// let somma = 0
+// for (let i = 0; i < numbers.length; i++){
+//     somma= somma+numbers[i];
+// }
+
+
+// let maggiore = 1
+// for(let i = 0; i < numbers.length; i++){
+//     if(numbers[i] > maggiore){
+//         maggiore = numbers[i]
+//     }
+
+// }
+// console.log(maggiore)
+
+
+// esercizio 1/A
+function world(){
+
+    alert("Ciao mondo")
+}
+
