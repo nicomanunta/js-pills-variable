@@ -135,14 +135,19 @@
 // world()
 
 // esercizio 2/A
-function sommaNumeri(num1, num2){
-    let risultato = num1+num2
-    return risultato
-}
+// function sommaNumeri(num1, num2){
+//     let risultato = num1+num2
+//     return risultato
+// }
 
-// esercizio 2/B
-let a = sommaNumeri(2, 5)
-console.log(a)
+// // esercizio 2/B
+// let a = sommaNumeri(2, 5)
+// console.log(a)
 
+// esercizio 1/A
+setTimeout(function(){
+    alert("Ciao a tutti")
+}, 3000)
 
+// esercizio 2
 
