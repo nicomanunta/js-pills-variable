@@ -162,3 +162,6 @@ let persona = {
     nome: "Nicolò",
     cognome: "Manunta",
 }
+
+// esercizio 1/B
+persona.nome = "Carlo"
