@@ -150,9 +150,15 @@
 // }, 3000)
 
 // esercizio 2
-let time = 0
-setInterval(function(){
-    time++
-    console.log(time)
-}, 1000)
+// let time = 0
+// setInterval(function(){
+//     time++
+//     console.log(time)
+// }, 1000)
 
+
+// esercizio 1/A
+let persona = {
+    nome: "Nicolò",
+    cognome: "Manunta",
+}
